@@ -1,1 +1,1 @@
-# Music-Genre-Classification-GTZAN-
+# Music-Genre-Classification (GTZAN Dataset)
