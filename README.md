@@ -16,6 +16,10 @@
 - **itertools** (For iterating the elements)
 - **pickle** (For storing the data into hard drive, so that we don't need to compute again and again. Just call the pickle file and load)
 
+# System Requirement
+- 16GB RAM
+- Nvidia 4GB RAM
+
 # Steps of Execution:
 1) **Read_File.py** : This file perform reading the audio files with labels corresponding to number of genres.
 
