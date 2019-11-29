@@ -20,6 +20,9 @@
 - 16GB RAM
 - Nvidia 4GB RAM
 
+# Dataset
+GTZAN Genre Collection (Download Link: http://marsyas.info/downloads/datasets.html )
+
 # Steps of Execution:
 1) **Read_File.py** : This file perform reading the audio files with labels corresponding to number of genres.
 
@@ -36,6 +39,14 @@
 7) **VGG16_Model.py** : This file contain VGG16 model. (Also include VGG16 + RNN in comment section) So that you can also train with RNN also if required.
 
 8) **VGG16_BiDirectional.py** : This file is for VGG16+BiRNN Model.
+
+***Other files are just for EDA:***
+
+**Waveform.py** : To show the plot of wave for the audio
+
+**Plot_Audio.py** : To plot the spectogram of segments of the audio. (You can uncomment the code if you want to see STFT, Melspectrogram or MFCC)
+
+**Plot_CM.py** : Create a module to print the Confusion Matrix
 
 # Result
 **See the result with every model with different feature extraction in 'Result and Output' Folder**
