@@ -57,4 +57,4 @@ GTZAN Genre Collection (Download Link: http://marsyas.info/downloads/datasets.ht
 You can study the description/thesis about this project in 'Major Thesis_(Final).pdf'
 
 # Publication
-Faiyaz Ahmad, Sahil,'Music Genre Classification using Spectral Analysis Techniques With Hybrid Convolution-Recurrent Neural Network',International Journal of Innovative Technology and ExploringEngineering (IJITEE), Volume-9, Issue-1, Novemeber, 2019
+Faiyaz Ahmad, Sahil,'Music Genre Classification using Spectral Analysis Techniques With Hybrid Convolution-Recurrent Neural Network',International Journal of Innovative Technology and Exploring Engineering (IJITEE), Volume-9, Issue-1, Novemeber, 2019
